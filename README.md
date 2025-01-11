@@ -20,11 +20,11 @@ This project is made in C language and demonstrates the basic usage of SDL and S
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/sdl-first-project.git
+    git clone https://github.com/Cybers-paradise/starter_sdl_documentfiles_and_code.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd sdl-first-project
+    cd starter_sdl_documentfiles_and_code
     ```
 3. SDL2 and SDL2_image file is also availiable with the other source file of the project , you can actually just start working in the project without waisting any time 
 
