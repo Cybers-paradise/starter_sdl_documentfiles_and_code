@@ -1,7 +1,6 @@
 # SDL First Project
 
-This project demonstrates the basic usage of SDL and SDL_image libraries to create a resizable window and render an image that scales with the window size, It also provided with the necesary file you need to 
-work and add to the project ,
+This project is made in C language and demonstrates the basic usage of SDL and SDL_image libraries to create a resizable window and render an image that scales with the window size, It also provided with the necesary file you need to work and add to the project .
 
 ## Features
 
@@ -36,3 +35,8 @@ work and add to the project ,
 Use the provided Makefile to compile the project. Run the following command:
 ```sh
 make
+```
+And after successfull compilation you can use the following commant to run the executable file
+```
+make run
+```
