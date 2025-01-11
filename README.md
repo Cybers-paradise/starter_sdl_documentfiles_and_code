@@ -30,6 +30,10 @@ This project is made in C language and demonstrates the basic usage of SDL and S
 
 4. Copy the necessary SDL project files (`wallpaper.jpg`) to the project directory.
 
+## Important
+
+Don't forget to change the path to the project folder in the make file to run the project.
+
 ## Compilation
 
 Use the provided Makefile to compile the project. Run the following command:
